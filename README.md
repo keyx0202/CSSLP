@@ -8,6 +8,33 @@ Steps in Programming:
 
 Object-oriented Programming(OOP)
 - Encapsulation: Restrict access to internal data
-- Modularity: 
+- Modularity: Fixes applied to base classes extend to all derived classes.
+- Reusability: Reusing tested Modules reduces risk
+- Polymorphism: Ensures controlled behavior in varying scenarios
+
+Object-Oriented Software Development(OOSD)
+- Follow the OOP principle, focuse on objects and classes
+
+Component-Based Development(CBD)
+- Building systems by integrating pre-existing components
+- Modularity
 - Reusability
-- Polymorphism
+- Interoperability
+- Losse Coupling
+- Builds on OOP, reuse of larger, pre-built components
+
+Classess, Variables, and Functions
+
+Software Development Lift cycle (SDLC)
+- WaterFall Model (Expensive to roll back to previous phase)
+  - Static Requirements
+- Agile Model
+  - Flexibility and Collaboration  
+  - scrum
+  - Iterative Model (Prototyping)
+  - Rapid Applicaiton development - RAD
+- Scalad Agile Framework
+  - Enterprise-level Agile
+- Spiral Model
+  - Risk-driven development
+- V-Shape Model
