@@ -38,3 +38,13 @@ Software Development Lift cycle (SDLC)
 - Spiral Model
   - Risk-driven development
 - V-Shape Model
+
+COTS and Custom-Developed Software:
+- COTS: Ready-made software
+
+Types of Software Licenses:
+1. Proprietary: Grants usage but restricts modificaiton and redistribution
+2. Open-source
+3. Freeware: free for personal use, but restric business purposes
+4. Shareware: allow to try before purchase
+5. Support License: provides vendor support for troubleshooting and updates
