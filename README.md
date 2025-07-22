@@ -69,4 +69,47 @@ SAM Practices:
 - perform internal audit
 - retire or reassign software licenses
 
+Imperative Programming: the developer explicitly specifies the steps the computer must take to achieve the desired outcome. It focuses on describing how a program operates.
 
+Declarative Programming: the developer describes what the program should accomplish without explicitly specifying how to achieve it. It focuses on the outcome rather than the process.
+
+Coding tools and Compilers:
+1. Integrated Development Environments (IDEs)
+2. Text Editors
+3. Compilers
+4. Version Control Systems (VCS)
+5. Debugging Tools
+6. Build Automation Tools
+  a. make
+  b. CMake
+  c. Maven
+7. Testing Frameworks
+  a. GTest
+8. Package Managers
+  - Manage libraries, dependencies
+  a. npm
+  b. pip
+
+Programming languages:
+1. low-level languages:
+  - Assembly language
+  - Machine Language
+2. High-level languages:
+  - Python
+3. scripting Languages:
+  - Bash
+  - Perl
+4. Object-oriented languages:
+  - C++
+  - Ruby
+5. Functional Programming languages:
+  - Scala
+  - Haskell
+6. Markup Languages:
+  - HTML
+  - XML
+7. Database Query:
+8. Domain-specific languages(DSLs):
+  - MATLAB
+  - R
+9. Concurrent and Parallel Programming Languages:
