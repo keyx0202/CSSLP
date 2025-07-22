@@ -48,3 +48,25 @@ Types of Software Licenses:
 3. Freeware: free for personal use, but restric business purposes
 4. Shareware: allow to try before purchase
 5. Support License: provides vendor support for troubleshooting and updates
+6. Creative Commons
+7. Copyleft licenses
+
+Types of Hardware Licenses:
+1. OEM
+  a. hardware with pre-installed software
+2. Site License
+  a. unlimited usage within a specific location of facility
+
+Software Asset Management (SAM)
+- Cost Efficiency
+- Risk Mitigation
+- Inventory Control
+- Regular internal Audit
+
+SAM Practices:
+- track software assets
+- manage licenses
+- perform internal audit
+- retire or reassign software licenses
+
+
